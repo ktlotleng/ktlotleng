@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ktlotleng
-- 👀 I’m interested in ... mobile development
+- 👀 I’m interested in ... mobile development and data science
 - 🌱 I’m currently learning ... Flutter
-- 💞️ I’m looking to collaborate on ... any Flutter or Java/Android Studio project
+- 💞️ I’m looking to collaborate on ... any Flutter or Java/Android Studio or Data Science projects
 - 📫 How to reach me ... kktlotleng@gmail.com
 
 <!---
